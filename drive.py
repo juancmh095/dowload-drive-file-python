@@ -8,7 +8,7 @@ gauth = GoogleAuth()
 gauth.LocalWebserverAuth() #
 
 drive = GoogleDrive(gauth)
-parent_folder_id = '1inxY-QLeNAj-ta6EXc24lQCYU1rFeLbP'
+parent_folder_id = ''
 # Set the parent folder, where you want to store the contents of the google drive folder
 parent_folder_dir = './'
 
